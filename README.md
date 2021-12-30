@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @hazrulaiman
 - 👀 I’m interested in both native and hybrid mobile application development.
-- 🌱 I’m currently learning Ionic, React Native and Angular and aims to be a fullstack software development engineering
+- 🌱 I am here to learn and help other :)
+
+Keen to learn and explore solutions on Native and Hybrid mobile app developments.
 
 <!---
 hazrulaiman/hazrulaiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
